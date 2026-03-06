@@ -4,8 +4,7 @@
 <table>
   <tr>
     <th>
-        Today's Weather, Animals - <a href="https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98-%EB%82%A0%EC%94%A8-%EB%8F%99%EB%AC%BC/id6759491506
-오늘 날씨: 동물"> iOS</a> / Android
+        Today's Weather, Animals - <a href="https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98-%EB%82%A0%EC%94%A8-%EB%8F%99%EB%AC%BC/id6759491506"> iOS</a> / Android
     </th>
     <th>
       One Arm - <a href="https://play.google.com/store/apps/details?id=pe.wayne.one_arm">Android</a> / <a href="https://apps.apple.com/kr/app/%ED%95%9C-%ED%8C%94/id6756837824">iOS</a>
