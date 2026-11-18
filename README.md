@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 ## 📱 JUST DO IT
-Animal Tag~
+Do it with AI. Make the world better.
 
 ## 🛠️ Tech Stack
 - Languages: typescript, gdscript
